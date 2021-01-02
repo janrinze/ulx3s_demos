@@ -4,15 +4,18 @@ Testing area for ULX3S and store for bitstreams.
 First upload: simplesoc.bit
 
 ## Simple 16 bit RISC SoC. 
-Loosely based on the Acorn Atom. The SoC is a 16 bit RISC with 16 registers. Each register is 16 bit wide.
+Loosely based on the Acorn Atom. The SoC is a 16 bit RISC with 16 registers. Each register is 16 bit wide.\
 To demonstrate the SoC a simple BASIC version was written in C++ and also a 3D demo.
 
 
 
 ### Requirements:
 
- ULX3S - 85k.
- USB OTG cable and PS/2 supporting USB keyboard
+ ULX3S - 85k.\
+ USB OTG cable\
+ PS/2 supporting USB keyboard\
+ HDMI cable and monitor\
+ OR: HDMI cable and HDMI2USB adapter (as used in the screenshots below.)\
  
  OTG cable connected to us2.
  
